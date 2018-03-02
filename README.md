@@ -6,7 +6,7 @@ We’re committed to transforming the retail loyalty industry with innovative di
 
 Disruption requires us to embrace change, that’s why we work agile. Creatives, technologists, data scientists and industry experts collaborate in multidisciplinary teams because we believe that magic happens at the intersection.
 
-![Agile teams](images/pic1.png)
+![Agile teams](images/pic1.jpg)
 
 # Applying
 
